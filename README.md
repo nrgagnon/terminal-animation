@@ -1,1 +1,1 @@
-# terminal-animation
+# animations in linux terminal
